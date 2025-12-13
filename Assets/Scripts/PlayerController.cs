@@ -1,13 +1,18 @@
+using System.Collections;
 using UnityEngine;
 using TMPro;
 
-public class PlayerController : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
-    [Header("Movement Speeds")]
+    [Header("Movement")]
+    private float moveSpeed;
     public float walkSpeed = 5f;
     public float sprintSpeed = 8f;
     public float crouchSpeed = 3f;
-    public float airControlMultiplier = 0.4f;
+    public float airMultiplier = 0.4f;
+
+    private float desiredMoveSpeed;
+    private float lastDesiredMoveSpeed;
 
     [Header("Jumping")]
     public float jumpForce = 6f;
@@ -18,12 +23,16 @@ public class PlayerController : MonoBehaviour
     public float crouchYScale = 0.5f;
     private float startYScale;
 
+    [Header("Keybinds")]
+    public KeyCode jumpKey = KeyCode.Space;
+    public KeyCode sprintKey = KeyCode.LeftShift;
+    public KeyCode crouchKey = KeyCode.LeftControl;
+
     [Header("Ground Check")]
     public float playerHeight = 2f;
     public LayerMask whatIsGround;
     private bool grounded;
 
-    [Header("Orientation")]
     public Transform orientation;
 
     [Header("UI")]
@@ -31,10 +40,9 @@ public class PlayerController : MonoBehaviour
 
     private float horizontalInput;
     private float verticalInput;
-    private Vector3 moveDirection;
 
-    private float moveSpeed;
     private Rigidbody rb;
+    private Vector3 moveDirection;
 
     public enum MovementState
     {
@@ -50,8 +58,6 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody>();
         rb.freezeRotation = true;
-        rb.useGravity = true;
-
         startYScale = transform.localScale.y;
         moveSpeed = walkSpeed;
     }
@@ -69,7 +75,7 @@ public class PlayerController : MonoBehaviour
         StateHandler();
 
         if (speedText != null)
-            speedText.text = $"Speed: {rb.linearVelocity.magnitude:F1}\nState: {state}";
+            speedText.text = "Speed: " + rb.linearVelocity.magnitude.ToString("F2") + "\nState: " + state;
     }
 
     private void FixedUpdate()
@@ -82,14 +88,15 @@ public class PlayerController : MonoBehaviour
         horizontalInput = Input.GetAxisRaw("Horizontal");
         verticalInput = Input.GetAxisRaw("Vertical");
 
-        if (Input.GetKey(KeyCode.Space) && readyToJump && grounded)
+        if (Input.GetKey(jumpKey) && readyToJump && grounded)
         {
             readyToJump = false;
             Jump();
             Invoke(nameof(ResetJump), jumpCooldown);
         }
 
-        if (Input.GetKeyDown(KeyCode.LeftControl))
+        // Crouch
+        if (Input.GetKeyDown(crouchKey))
         {
             transform.localScale = new Vector3(
                 transform.localScale.x,
@@ -99,7 +106,7 @@ public class PlayerController : MonoBehaviour
             playerHeight = crouchYScale * 2f;
         }
 
-        if (Input.GetKeyUp(KeyCode.LeftControl))
+        if (Input.GetKeyUp(crouchKey))
         {
             transform.localScale = new Vector3(
                 transform.localScale.x,
@@ -112,55 +119,51 @@ public class PlayerController : MonoBehaviour
 
     private void StateHandler()
     {
-        if (grounded && Input.GetKey(KeyCode.LeftControl))
+        if (grounded && Input.GetKey(crouchKey))
         {
             state = MovementState.crouching;
-            moveSpeed = crouchSpeed;
+            desiredMoveSpeed = crouchSpeed;
         }
-        else if (grounded && Input.GetKey(KeyCode.LeftShift))
+        else if (grounded && Input.GetKey(sprintKey))
         {
             state = MovementState.sprinting;
-            moveSpeed = sprintSpeed;
+            desiredMoveSpeed = sprintSpeed;
         }
         else if (grounded)
         {
             state = MovementState.walking;
-            moveSpeed = walkSpeed;
+            desiredMoveSpeed = walkSpeed;
         }
         else
         {
             state = MovementState.air;
+            desiredMoveSpeed = walkSpeed;
         }
+        moveSpeed = desiredMoveSpeed;
+
+
+        lastDesiredMoveSpeed = desiredMoveSpeed;
     }
+
+ 
 
     private void MovePlayer()
     {
-        moveDirection = orientation.forward * verticalInput +
-                        orientation.right * horizontalInput;
-
+        moveDirection = orientation.forward * verticalInput + orientation.right * horizontalInput;
         Vector3 targetVelocity = moveDirection.normalized * moveSpeed;
 
         if (!grounded)
-            targetVelocity *= airControlMultiplier;
+            targetVelocity *= airMultiplier;
 
-        // Preserve Y velocity (gravity, jump, abilities)
-        rb.linearVelocity = new Vector3(
-            targetVelocity.x,
-            rb.linearVelocity.y,
-            targetVelocity.z
-        );
+        // Preserve vertical velocity for jump/gravity
+        rb.linearVelocity = new Vector3(targetVelocity.x, rb.linearVelocity.y, targetVelocity.z);
     }
 
     private void Jump()
     {
-        rb.linearVelocity = new Vector3(
-            rb.linearVelocity.x,
-            0f,
-            rb.linearVelocity.z
-        );
-
+        rb.linearVelocity = new Vector3(rb.linearVelocity.x, 0f, rb.linearVelocity.z);
         rb.linearVelocity += Vector3.up * jumpForce;
-    }
+    }   
 
     private void ResetJump()
     {
