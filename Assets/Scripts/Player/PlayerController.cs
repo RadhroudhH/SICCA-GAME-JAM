@@ -67,13 +67,18 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
+        float rayLength = (playerHeight * 0.5f) + 0.2f;
+
         grounded = Physics.Raycast(
             transform.position,
             Vector3.down,
-            (playerHeight * transform.localScale.y * 0.5f) + 0.3f,
+            rayLength,
             whatIsGround
         );
-        Debug.DrawRay(transform.position, Vector3.down * ((playerHeight * transform.localScale.y * 0.5f) + 0.3f));
+
+        Debug.DrawRay(transform.position, Vector3.down * rayLength, grounded ? Color.green : Color.red);
+
+        //Debug.DrawRay(transform.position, Vector3.down * ((playerHeight * transform.localScale.y * 0.5f) + 0.3f));
         MyInput();
         StateHandler();
         SpeedControl();
