@@ -2,37 +2,45 @@ using UnityEngine;
 
 public class KidRescueByDistance : MonoBehaviour
 {
-    [Header("References")]
+    [Header("Rescue Setup")]
     public Transform branchPile;
+    public float rescueDistance = 3f;
+
+    [Header("References")]
     public KidGuide kidGuide;
     public AudioSource cryingAudio;
 
-    [Header("Rescue Settings")]
-    public float rescueDistance = 3f;
-
+    private Animator animator;
     private bool rescued = false;
+
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
 
     void Update()
     {
-        if (rescued || branchPile == null) return;
+        if (rescued) return;
 
         float distance = Vector3.Distance(transform.position, branchPile.position);
 
-        if (distance >= rescueDistance)
+        if (distance > rescueDistance)
         {
             RescueKid();
         }
     }
 
-    void RescueKid()
+    private void RescueKid()
     {
         rescued = true;
 
         if (cryingAudio != null)
             cryingAudio.Stop();
 
-        kidGuide.StartGuiding();
+        if (animator != null)
+            animator.SetBool("IsRescued", true);
 
-        Debug.Log("Kid rescued by moving branches!");
+        if (kidGuide != null)
+            kidGuide.StartGuiding();
     }
 }
