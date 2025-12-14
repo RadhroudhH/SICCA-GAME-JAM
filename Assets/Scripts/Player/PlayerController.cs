@@ -1,6 +1,8 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using NUnit.Framework;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -38,6 +40,20 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("UI")]
     public TMP_Text speedText;
+
+    [Header("Footsteps")]
+    [SerializeField] private AudioSource footstepSource;
+
+    [SerializeField] private List<AudioClip> walkSteps = new List<AudioClip>();
+    [SerializeField] private List<AudioClip> sprintSteps = new List<AudioClip>();
+    [SerializeField] private List<AudioClip> crouchSteps = new List<AudioClip>();
+
+    [SerializeField] private float walkStepInterval = 0.5f;
+    [SerializeField] private float sprintStepInterval = 0.35f;
+    [SerializeField] private float crouchStepInterval = 0.7f;
+
+    private float stepTimer;
+
 
     private float horizontalInput;
     private float verticalInput;
@@ -93,6 +109,9 @@ public class PlayerMovement : MonoBehaviour
         {
             Time.timeScale = 0.5f;
         }
+
+        HandleFootsteps();
+
     }
 
     private void FixedUpdate()
@@ -184,4 +203,52 @@ public class PlayerMovement : MonoBehaviour
     {
         readyToJump = true;
     }
+
+    private void HandleFootsteps()
+    {
+        if (!grounded)
+            return;
+
+        Vector3 flatVelocity = new Vector3(rb.linearVelocity.x, 0f, rb.linearVelocity.z);
+        if (flatVelocity.magnitude < 0.1f)
+            return;
+
+        stepTimer -= Time.deltaTime;
+        if (stepTimer > 0f)
+            return;
+
+        AudioClip clip = null;
+
+        switch (state)
+        {
+            case MovementState.walking:
+                clip = GetRandomClip(walkSteps);
+                stepTimer = walkStepInterval;
+                break;
+
+            case MovementState.sprinting:
+                clip = GetRandomClip(sprintSteps);
+                stepTimer = sprintStepInterval;
+                break;
+
+            case MovementState.crouching:
+                clip = GetRandomClip(crouchSteps);
+                stepTimer = crouchStepInterval;
+                break;
+        }
+
+        if (clip != null)
+            footstepSource.PlayOneShot(clip);
+    }
+
+    private AudioClip GetRandomClip(List<AudioClip> clips)
+    {
+        if (clips == null || clips.Count == 0)
+            return null;
+
+        return clips[Random.Range(0, clips.Count)];
+    }
+
+
+
 }
