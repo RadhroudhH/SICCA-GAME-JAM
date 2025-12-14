@@ -4561,6 +4561,15 @@ MonoBehaviour:
   kidState: {fileID: 721294837}
   player: {fileID: 3250617662057185923}
   waypoints:
+  - {fileID: 428592986}
+  - {fileID: 990715018}
+  - {fileID: 563489164}
+  - {fileID: 851339773}
+  - {fileID: 238340685}
+  - {fileID: 2065874463}
+  - {fileID: 1407344713}
+  - {fileID: 1534635616}
+  - {fileID: 1654847551}
   - {fileID: 4000010366069922}
   moveSpeed: 2
   waitDistance: 6
@@ -14919,7 +14928,7 @@ Transform:
   m_GameObject: {fileID: 919132148988390650}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 77.19, y: 0.7719841, z: -51}
+  m_LocalPosition: {x: -16.59, y: 0.97, z: -42.01}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -15472,8 +15481,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7198140605348781162}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 68.04, y: 0.25636292, z: -49.4}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 66.63, y: 0.67, z: 38.75}
   m_LocalScale: {x: 1.25, y: 1.7, z: 1.25}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -15481,7 +15490,7 @@ Transform:
   - {fileID: 6277155546960454755}
   - {fileID: 5297547155211431143}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &3336576817287416038
 Rigidbody:
   m_ObjectHideFlags: 0
