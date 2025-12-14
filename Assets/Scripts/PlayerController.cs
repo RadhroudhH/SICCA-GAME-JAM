@@ -84,6 +84,10 @@ public class PlayerMovement : MonoBehaviour
         if (speedText != null)
             speedText.text = "Speed: " + rb.linearVelocity.magnitude.ToString("F2") +
                              "\nState: " + state;
+        if (Input.GetKeyDown(KeyCode.T))
+        {
+            Time.timeScale = 0.5f;
+        }
     }
 
     private void FixedUpdate()
