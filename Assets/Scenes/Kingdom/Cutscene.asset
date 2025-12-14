@@ -50,7 +50,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: Forest
+  m_Name: Cutscene
   m_EditorClassIdentifier: 
   components:
   - {fileID: -2559734519094303853}
@@ -73,10 +73,10 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 0.76190746, y: 0.78812885, z: 1, w: 0.28486645}
+    m_Value: {x: 0.6442133, y: 0.6568229, z: 1, w: 0.043846905}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 0.9777628, y: 0.9404515, z: 1, w: -0.26706234}
+    m_Value: {x: 0.78389364, y: 0.79509974, z: 1, w: -0.1372827}
   highlights:
     m_OverrideState: 0
     m_Value: {x: 1, y: 1, z: 1, w: 0}
@@ -138,10 +138,10 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.34
+    m_Value: 0.46
   smoothness:
     m_OverrideState: 0
-    m_Value: 0.2
+    m_Value: 0.419
   rounded:
     m_OverrideState: 0
     m_Value: 0

@@ -33,11 +33,21 @@ public class EntryCutscene : MonoBehaviour
     [SerializeField] private RectTransform transitionTop;
     [SerializeField] private float revealDuration = 1.2f;
 
+    [Header("Post Processing")]
+    [SerializeField] private UnityEngine.Rendering.Volume cutsceneVolume;
+    [SerializeField] private UnityEngine.Rendering.Volume gameplayVolume;
+    [SerializeField] private float postProcessBlendTime = 1f;
 
     private void Start()
     {
+
+        cutsceneVolume.weight = 1f;
+        gameplayVolume.weight = 0f;
+
+
         cutsceneCamera.gameObject.SetActive(true);
         gameplayCamera.gameObject.SetActive(false);
+
 
         blackScreen.gameObject.SetActive(true);
         SetBlackAlpha(1f);
@@ -156,22 +166,48 @@ public class EntryCutscene : MonoBehaviour
         }
 
         // CLEANUP
-        transitionBottom.gameObject.SetActive(false);
-        transitionTop.gameObject.SetActive(false);
+        //transitionBottom.gameObject.SetActive(false);
+        //transitionTop.gameObject.SetActive(false);
 
         // Switch camera AFTER reveal
         SwitchToGameplayCamera();
+
+        // Blend post processing
+        yield return StartCoroutine(BlendPostProcessing());
 
         // Remove crime scene
         murderSceneRoot.SetActive(false);
 
         // Remove black screen completely
         blackScreen.gameObject.SetActive(false);
+
+        
+
     }
 
     private float EaseInOut(float t)
     {
         return t * t * (3f - 2f * t);
     }
+
+    private IEnumerator BlendPostProcessing()
+    {
+        float elapsed = 0f;
+
+        while (elapsed < postProcessBlendTime)
+        {
+            elapsed += Time.deltaTime;
+            float t = elapsed / postProcessBlendTime;
+
+            cutsceneVolume.weight = Mathf.Lerp(1f, 0f, t);
+            gameplayVolume.weight = Mathf.Lerp(0f, 1f, t);
+
+            yield return null;
+        }
+
+        cutsceneVolume.weight = 0f;
+        gameplayVolume.weight = 1f;
+    }
+
 
 }
