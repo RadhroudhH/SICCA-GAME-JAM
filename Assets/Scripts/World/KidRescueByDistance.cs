@@ -9,6 +9,7 @@ public class KidRescueByDistance : MonoBehaviour
     [Header("References")]
     public KidGuide kidGuide;
     public AudioSource cryingAudio;
+    public SubtitleTypewriter subtitleTypewriter; 
 
     private Animator animator;
     private bool rescued = false;
@@ -42,5 +43,8 @@ public class KidRescueByDistance : MonoBehaviour
 
         if (kidGuide != null)
             kidGuide.StartGuiding();
+
+        if (subtitleTypewriter != null)
+            subtitleTypewriter.ShowSubtitle("3aychou 3ammi, ija taba3ni ! Na3ref blasa no5erjou menha !");
     }
 }
