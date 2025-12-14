@@ -131,6 +131,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182002
@@ -204,6 +208,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -279,6 +287,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-oval (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011210138126, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013631235076, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.27489
@@ -340,6 +352,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -415,6 +431,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -488,6 +508,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -563,6 +587,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stump (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011132149452, guid: 9d7f29b770d624f689e53cccd7e83eb6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010394300358, guid: 9d7f29b770d624f689e53cccd7e83eb6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.08394122
@@ -624,6 +652,10 @@ PrefabInstance:
     - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_Name
       value: stone-pointy (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000012442649666, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -687,6 +719,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.5455568
@@ -749,6 +785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.425557
@@ -810,6 +850,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -885,6 +929,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-flat_brown (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010635393592, guid: 0fe191e3edfdf472990132f6c31d4af8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011193101008, guid: 0fe191e3edfdf472990132f6c31d4af8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11.149392
@@ -946,6 +994,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -1021,6 +1073,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013466349968, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013162195916, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14.767685
@@ -1083,6 +1139,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.564443
@@ -1144,6 +1204,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -1219,6 +1283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -1293,6 +1361,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013466349968, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013162195916, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.2336006
@@ -1354,6 +1426,10 @@ PrefabInstance:
     - target: {fileID: 1000010262655218, guid: 4474509db5d3de14ba862ea4000efdfd, type: 3}
       propertyPath: m_Name
       value: stone-flat (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010262655218, guid: 4474509db5d3de14ba862ea4000efdfd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013346531304, guid: 4474509db5d3de14ba862ea4000efdfd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1417,6 +1493,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-flat_brown (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010635393592, guid: 0fe191e3edfdf472990132f6c31d4af8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011193101008, guid: 0fe191e3edfdf472990132f6c31d4af8, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.89777875
@@ -1479,6 +1559,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.069971
@@ -1540,6 +1624,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -1615,6 +1703,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.045556784
@@ -1676,6 +1768,10 @@ PrefabInstance:
     - target: {fileID: 1000010635393592, guid: 0fe191e3edfdf472990132f6c31d4af8, type: 3}
       propertyPath: m_Name
       value: stone-flat_brown
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010635393592, guid: 0fe191e3edfdf472990132f6c31d4af8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011193101008, guid: 0fe191e3edfdf472990132f6c31d4af8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1739,6 +1835,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.385557
@@ -1800,6 +1900,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -1875,6 +1979,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.254443
@@ -1936,6 +2044,10 @@ PrefabInstance:
     - target: {fileID: 1000013439814856, guid: fbc9c80d06a1141eca6e8565ad520c3b, type: 3}
       propertyPath: m_Name
       value: stone-round_brown (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013439814856, guid: fbc9c80d06a1141eca6e8565ad520c3b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000012010701852, guid: fbc9c80d06a1141eca6e8565ad520c3b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1999,6 +2111,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-oval_orange (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013070978894, guid: 16c6ecb322f65d1498b1b8b303ba2b90, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000014249411078, guid: 16c6ecb322f65d1498b1b8b303ba2b90, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.8058635
@@ -2061,6 +2177,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012442649666, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.234443
@@ -2122,6 +2242,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -2197,6 +2321,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond_orange
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013714799558, guid: a418142078cffa24f8c4398472c9cafb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010245227958, guid: a418142078cffa24f8c4398472c9cafb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.3955572
@@ -2258,6 +2386,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -2333,6 +2465,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -2406,6 +2542,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -2481,6 +2621,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.095557
@@ -2542,6 +2686,10 @@ PrefabInstance:
     - target: {fileID: 1000013070978894, guid: 16c6ecb322f65d1498b1b8b303ba2b90, type: 3}
       propertyPath: m_Name
       value: stone-oval_orange
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013070978894, guid: 16c6ecb322f65d1498b1b8b303ba2b90, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000014249411078, guid: 16c6ecb322f65d1498b1b8b303ba2b90, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2605,6 +2753,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.88444316
@@ -2666,6 +2818,10 @@ PrefabInstance:
     - target: {fileID: 1000013466349968, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
       propertyPath: m_Name
       value: stone-small (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013466349968, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013162195916, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2729,6 +2885,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond_brown (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013747084568, guid: 57ee24a79f9434341b85434ba53b0526, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012983757074, guid: 57ee24a79f9434341b85434ba53b0526, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.417095
@@ -2790,6 +2950,10 @@ PrefabInstance:
     - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_Name
       value: shrub (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2853,6 +3017,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.57555676
@@ -2914,6 +3082,10 @@ PrefabInstance:
     - target: {fileID: 1000013439814856, guid: fbc9c80d06a1141eca6e8565ad520c3b, type: 3}
       propertyPath: m_Name
       value: stone-round_brown
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013439814856, guid: fbc9c80d06a1141eca6e8565ad520c3b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000012010701852, guid: fbc9c80d06a1141eca6e8565ad520c3b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2982,7 +3154,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &428233731
 BoxCollider:
@@ -3084,6 +3256,10 @@ PrefabInstance:
     - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_Name
       value: stone-pointy (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000012442649666, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3221,6 +3397,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -3294,6 +3474,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -3369,6 +3553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -3443,6 +3631,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10.645557
@@ -3504,6 +3696,10 @@ PrefabInstance:
     - target: {fileID: 1000010941489026, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
       propertyPath: m_Name
       value: tree-old (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010941489026, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000012819535232, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3567,6 +3763,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-flat_orange (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011505633412, guid: 5e74835ce4619c94e9996cc209b92921, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013183415300, guid: 5e74835ce4619c94e9996cc209b92921, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.327392
@@ -3628,6 +3828,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -3703,6 +3907,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -3777,6 +3985,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15.124443
@@ -3839,6 +4051,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond_brown
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013747084568, guid: 57ee24a79f9434341b85434ba53b0526, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012983757074, guid: 57ee24a79f9434341b85434ba53b0526, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.8355567
@@ -3900,6 +4116,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -3975,6 +4195,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-oval (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011210138126, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013631235076, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.101955
@@ -4036,6 +4260,10 @@ PrefabInstance:
     - target: {fileID: 1000010740007340, guid: 54baad8be8f0849b2b20fd1da61be15f, type: 3}
       propertyPath: m_Name
       value: stone-oval_brown
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010740007340, guid: 54baad8be8f0849b2b20fd1da61be15f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013067603608, guid: 54baad8be8f0849b2b20fd1da61be15f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4099,6 +4327,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small_brown (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013039910218, guid: e23f1f429b8014fe3a8b083d568be8d6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011012966344, guid: e23f1f429b8014fe3a8b083d568be8d6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.5940759
@@ -4161,6 +4393,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-flat
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010262655218, guid: 4474509db5d3de14ba862ea4000efdfd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013346531304, guid: 4474509db5d3de14ba862ea4000efdfd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.3456078
@@ -4222,6 +4458,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -4297,6 +4537,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy_brown (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010418045386, guid: b3a2d7a4838ad404eacfdc0ccaf763e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012747087024, guid: b3a2d7a4838ad404eacfdc0ccaf763e6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.361413
@@ -4359,6 +4603,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small_orange
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010604084324, guid: 6387db88c4179b14eba08bb62d247de7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012502562368, guid: 6387db88c4179b14eba08bb62d247de7, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.1155577
@@ -4420,6 +4668,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -4495,6 +4747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree-old (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010941489026, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012819535232, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.5102887
@@ -4556,6 +4812,10 @@ PrefabInstance:
     - target: {fileID: 1000010740007340, guid: 54baad8be8f0849b2b20fd1da61be15f, type: 3}
       propertyPath: m_Name
       value: stone-oval_brown (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010740007340, guid: 54baad8be8f0849b2b20fd1da61be15f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013067603608, guid: 54baad8be8f0849b2b20fd1da61be15f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4619,6 +4879,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.035557
@@ -4680,6 +4944,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -4755,6 +5023,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.8355567
@@ -4817,6 +5089,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14.264956
@@ -4878,6 +5154,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -4953,6 +5233,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-flat_orange (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011505633412, guid: 5e74835ce4619c94e9996cc209b92921, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013183415300, guid: 5e74835ce4619c94e9996cc209b92921, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.8566897
@@ -5014,6 +5298,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -5089,6 +5377,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-round_orange (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012973575592, guid: 5c6e01cf12ba8934f82b4c08f4cb262c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013134691540, guid: 5c6e01cf12ba8934f82b4c08f4cb262c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.0126898
@@ -5150,6 +5442,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -5213,6 +5509,55 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
   m_PrefabInstance: {fileID: 751926395}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &763129878
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 763129880}
+  - component: {fileID: 763129879}
+  m_Layer: 0
+  m_Name: Post Processing
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &763129879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 763129878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IsGlobal: 1
+  priority: 0
+  blendDistance: 0
+  weight: 1
+  sharedProfile: {fileID: 11400000, guid: b5ae21073cbe75a4e950d30876b115ca, type: 2}
+--- !u!4 &763129880
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 763129878}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 32.23658, y: -6.062004, z: 8.318958}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &765682602
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5224,6 +5569,10 @@ PrefabInstance:
     - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_Name
       value: tree (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5287,6 +5636,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-flat_orange
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011505633412, guid: 5e74835ce4619c94e9996cc209b92921, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013183415300, guid: 5e74835ce4619c94e9996cc209b92921, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.41555667
@@ -5348,6 +5701,10 @@ PrefabInstance:
     - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_Name
       value: tree
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5411,6 +5768,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.6544431
@@ -5472,6 +5833,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -5547,6 +5912,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small_orange
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012327710642, guid: d17c28d3e02f33040aabbba51a2118fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013394088876, guid: d17c28d3e02f33040aabbba51a2118fd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.6055574
@@ -5608,6 +5977,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -5804,6 +6177,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -5878,6 +6255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-oval
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011210138126, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013631235076, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.5344431
@@ -5939,6 +6320,10 @@ PrefabInstance:
     - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_Name
       value: shrub (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6002,6 +6387,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012442649666, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8.251706
@@ -6063,6 +6452,10 @@ PrefabInstance:
     - target: {fileID: 1000013466349968, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
       propertyPath: m_Name
       value: stone-small (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013466349968, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013162195916, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6126,6 +6519,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14.344443
@@ -6187,6 +6584,10 @@ PrefabInstance:
     - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_Name
       value: stone-diamond (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6250,6 +6651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small_brown
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013039910218, guid: e23f1f429b8014fe3a8b083d568be8d6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011012966344, guid: e23f1f429b8014fe3a8b083d568be8d6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.7455566
@@ -6311,6 +6716,10 @@ PrefabInstance:
     - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_Name
       value: rocks-small (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6374,6 +6783,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15.594443
@@ -6436,6 +6849,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.678147
@@ -6497,6 +6914,10 @@ PrefabInstance:
     - target: {fileID: 1000013313606856, guid: 2285a3453cbdb1348b8fa12d4f06cc55, type: 3}
       propertyPath: m_Name
       value: rock-sharp (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013313606856, guid: 2285a3453cbdb1348b8fa12d4f06cc55, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011972474570, guid: 2285a3453cbdb1348b8fa12d4f06cc55, type: 3}
       propertyPath: m_LocalScale.x
@@ -6572,6 +6993,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.774443
@@ -6633,6 +7058,10 @@ PrefabInstance:
     - target: {fileID: 1000013714799558, guid: a418142078cffa24f8c4398472c9cafb, type: 3}
       propertyPath: m_Name
       value: stone-diamond_orange (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013714799558, guid: a418142078cffa24f8c4398472c9cafb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010245227958, guid: a418142078cffa24f8c4398472c9cafb, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6696,6 +7125,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond_brown (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013747084568, guid: 57ee24a79f9434341b85434ba53b0526, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012983757074, guid: 57ee24a79f9434341b85434ba53b0526, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.654443
@@ -6757,6 +7190,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -6834,7 +7271,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1006238639
 Transform:
@@ -6863,6 +7300,10 @@ PrefabInstance:
     - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_Name
       value: shrub (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6926,6 +7367,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.1755569
@@ -6987,6 +7432,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -7062,6 +7511,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-oval_orange (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013070978894, guid: 16c6ecb322f65d1498b1b8b303ba2b90, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000014249411078, guid: 16c6ecb322f65d1498b1b8b303ba2b90, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.816744
@@ -7124,6 +7577,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11.084443
@@ -7185,6 +7642,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -7260,6 +7721,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small_brown (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010899456214, guid: 9180379527e1845e0a39c678a7759818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013283378482, guid: 9180379527e1845e0a39c678a7759818, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.062942
@@ -7321,6 +7786,10 @@ PrefabInstance:
     - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_Name
       value: shrub (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7384,6 +7853,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012442649666, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -16.384443
@@ -7445,6 +7918,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -7520,6 +7997,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.464443
@@ -7581,6 +8062,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -7656,6 +8141,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stump (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011132149452, guid: 9d7f29b770d624f689e53cccd7e83eb6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010394300358, guid: 9d7f29b770d624f689e53cccd7e83eb6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.9344425
@@ -7717,6 +8206,10 @@ PrefabInstance:
     - target: {fileID: 1000011210138126, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
       propertyPath: m_Name
       value: stone-oval (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011210138126, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013631235076, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7780,6 +8273,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small_orange (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010604084324, guid: 6387db88c4179b14eba08bb62d247de7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012502562368, guid: 6387db88c4179b14eba08bb62d247de7, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.1044432
@@ -7841,6 +8338,10 @@ PrefabInstance:
     - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_Name
       value: tree (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7904,6 +8405,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy_orange (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011501164198, guid: e2a184eee3066c849bee3b0b9035c911, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013790185910, guid: e2a184eee3066c849bee3b0b9035c911, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.47592425
@@ -7965,6 +8470,10 @@ PrefabInstance:
     - target: {fileID: 1000010941489026, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
       propertyPath: m_Name
       value: tree-old (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010941489026, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000012819535232, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8028,6 +8537,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15.754443
@@ -8089,6 +8602,10 @@ PrefabInstance:
     - target: {fileID: 1000012327710642, guid: d17c28d3e02f33040aabbba51a2118fd, type: 3}
       propertyPath: m_Name
       value: rocks-small_orange (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012327710642, guid: d17c28d3e02f33040aabbba51a2118fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013394088876, guid: d17c28d3e02f33040aabbba51a2118fd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8152,6 +8669,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.809407
@@ -8213,6 +8734,10 @@ PrefabInstance:
     - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_Name
       value: rocks-small
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8366,6 +8891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small_brown
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010899456214, guid: 9180379527e1845e0a39c678a7759818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013283378482, guid: 9180379527e1845e0a39c678a7759818, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.2055569
@@ -8427,6 +8956,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -8502,6 +9035,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -8575,6 +9112,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -8650,6 +9191,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -8724,6 +9269,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-round_orange (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012973575592, guid: 5c6e01cf12ba8934f82b4c08f4cb262c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013134691540, guid: 5c6e01cf12ba8934f82b4c08f4cb262c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11.518508
@@ -8785,6 +9334,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -8860,6 +9413,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -8934,6 +9491,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012442649666, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.169935
@@ -8996,6 +9557,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.9055567
@@ -9046,6 +9611,127 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
   m_PrefabInstance: {fileID: 1428438925}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1442324260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1442324263}
+  - component: {fileID: 1442324262}
+  - component: {fileID: 1442324261}
+  m_Layer: 0
+  m_Name: Sun
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1442324261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442324260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+--- !u!108 &1442324262
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442324260}
+  m_Enabled: 1
+  serializedVersion: 11
+  m_Type: 1
+  m_Color: {r: 0.6698113, g: 0.6705893, b: 1, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ForceVisible: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+  m_LightUnit: 1
+  m_LuxAtDistance: 1
+  m_EnableSpotReflector: 1
+--- !u!4 &1442324263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442324260}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.4466474, y: -0.10502257, z: 0.2887797, w: 0.84028727}
+  m_LocalPosition: {x: -0.708892, y: 7.96, z: -5.4455194}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 54.221, y: 8.01, z: 42.038}
 --- !u!1001 &1443053668
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9057,6 +9743,10 @@ PrefabInstance:
     - target: {fileID: 1000010740549920, guid: 5aa80b55966c6404fb24876c1d1e55d5, type: 3}
       propertyPath: m_Name
       value: stone-round
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010740549920, guid: 5aa80b55966c6404fb24876c1d1e55d5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011421364786, guid: 5aa80b55966c6404fb24876c1d1e55d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9119,6 +9809,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -9193,6 +9887,10 @@ PrefabInstance:
     - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_Name
       value: tree (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9330,6 +10028,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012442649666, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -16.454443
@@ -9391,6 +10093,10 @@ PrefabInstance:
     - target: {fileID: 1000012327710642, guid: d17c28d3e02f33040aabbba51a2118fd, type: 3}
       propertyPath: m_Name
       value: rocks-small_orange (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012327710642, guid: d17c28d3e02f33040aabbba51a2118fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013394088876, guid: d17c28d3e02f33040aabbba51a2118fd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9454,6 +10160,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14.704443
@@ -9515,6 +10225,10 @@ PrefabInstance:
     - target: {fileID: 1000011210138126, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
       propertyPath: m_Name
       value: stone-oval (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011210138126, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013631235076, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9580,7 +10294,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1568807764
 Transform:
@@ -9799,6 +10513,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -35.744442
@@ -9860,6 +10578,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -9935,6 +10657,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.984443
@@ -9996,6 +10722,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -10071,6 +10801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -10145,6 +10879,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.8555567
@@ -10204,7 +10942,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1679822560}
-  - component: {fileID: 1679822559}
   - component: {fileID: 1679822557}
   m_Layer: 0
   m_Name: Cube
@@ -10228,20 +10965,12 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!33 &1679822559
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1679822556}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &1679822560
 Transform:
   m_ObjectHideFlags: 0
@@ -10268,6 +10997,10 @@ PrefabInstance:
     - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_Name
       value: stone-diamond (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10331,6 +11064,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.215557
@@ -10393,6 +11130,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14.826041
@@ -10454,6 +11195,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -10529,6 +11274,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.925557
@@ -10591,6 +11340,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stump
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011132149452, guid: 9d7f29b770d624f689e53cccd7e83eb6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010394300358, guid: 9d7f29b770d624f689e53cccd7e83eb6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.491004
@@ -10652,6 +11405,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -10727,6 +11484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -10801,6 +11562,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy_orange (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011501164198, guid: e2a184eee3066c849bee3b0b9035c911, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013790185910, guid: e2a184eee3066c849bee3b0b9035c911, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.459422
@@ -10863,6 +11628,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree-old (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010941489026, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012819535232, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.9721794
@@ -10924,6 +11693,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -10999,6 +11772,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond_orange (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013714799558, guid: a418142078cffa24f8c4398472c9cafb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010245227958, guid: a418142078cffa24f8c4398472c9cafb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.0379632
@@ -11061,6 +11838,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013466349968, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013162195916, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8.445557
@@ -11122,6 +11903,10 @@ PrefabInstance:
     - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_Name
       value: shrub (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11322,6 +12107,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.285557
@@ -11384,6 +12173,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -13.5479555
@@ -11445,6 +12238,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -11520,6 +12317,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy_brown
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010418045386, guid: b3a2d7a4838ad404eacfdc0ccaf763e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012747087024, guid: b3a2d7a4838ad404eacfdc0ccaf763e6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.7055566
@@ -11582,6 +12383,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shrub (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.074443
@@ -11643,6 +12448,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -11792,6 +12601,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy_orange
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011501164198, guid: e2a184eee3066c849bee3b0b9035c911, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013790185910, guid: e2a184eee3066c849bee3b0b9035c911, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.3155565
@@ -11853,6 +12666,10 @@ PrefabInstance:
     - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_Name
       value: rocks-small (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11916,6 +12733,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy_brown (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010418045386, guid: b3a2d7a4838ad404eacfdc0ccaf763e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012747087024, guid: b3a2d7a4838ad404eacfdc0ccaf763e6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.5431092
@@ -11977,6 +12798,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -12052,6 +12877,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree-old
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010941489026, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012819535232, guid: 43c4953bafdd8c447a2146dc2f16f970, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.4244432
@@ -12113,6 +12942,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -12188,6 +13021,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013497436514, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011776190726, guid: ddf7f5e45e33643f29f98935b0a24dd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.394443
@@ -12249,6 +13086,10 @@ PrefabInstance:
     - target: {fileID: 1000013313606856, guid: 2285a3453cbdb1348b8fa12d4f06cc55, type: 3}
       propertyPath: m_Name
       value: rock-sharp (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013313606856, guid: 2285a3453cbdb1348b8fa12d4f06cc55, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000011972474570, guid: 2285a3453cbdb1348b8fa12d4f06cc55, type: 3}
       propertyPath: m_LocalScale.x
@@ -12358,6 +13199,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks-small (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010961514128, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011748167870, guid: 6cc963073d7c6dc4a9b1e1487ffda630, type: 3}
       propertyPath: m_LocalPosition.x
       value: -13.234443
@@ -12419,6 +13264,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -12494,6 +13343,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -12568,6 +13421,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-oval_brown (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010740007340, guid: 54baad8be8f0849b2b20fd1da61be15f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013067603608, guid: 54baad8be8f0849b2b20fd1da61be15f, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.683712
@@ -12629,6 +13486,10 @@ PrefabInstance:
     - target: {fileID: 1000010899456214, guid: 9180379527e1845e0a39c678a7759818, type: 3}
       propertyPath: m_Name
       value: rocks-small_brown (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010899456214, guid: 9180379527e1845e0a39c678a7759818, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013283378482, guid: 9180379527e1845e0a39c678a7759818, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12692,6 +13553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-diamond (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011816824358, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012627383356, guid: 1e6bbdee4038af349901aa5f6b06c65b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.282149
@@ -12753,6 +13618,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -12828,6 +13697,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small_brown (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013039910218, guid: e23f1f429b8014fe3a8b083d568be8d6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011012966344, guid: e23f1f429b8014fe3a8b083d568be8d6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.339433
@@ -12889,6 +13762,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -12964,6 +13841,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-round_brown (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013439814856, guid: fbc9c80d06a1141eca6e8565ad520c3b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012010701852, guid: fbc9c80d06a1141eca6e8565ad520c3b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.11088443
@@ -13025,6 +13906,10 @@ PrefabInstance:
     - target: {fileID: 1000012973575592, guid: 5c6e01cf12ba8934f82b4c08f4cb262c, type: 3}
       propertyPath: m_Name
       value: stone-round_orange
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012973575592, guid: 5c6e01cf12ba8934f82b4c08f4cb262c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000013134691540, guid: 5c6e01cf12ba8934f82b4c08f4cb262c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13088,6 +13973,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013466349968, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013162195916, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.0044432
@@ -13150,6 +14039,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-oval (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011210138126, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013631235076, guid: f9c68666ec758cb48afb06107c00dfcd, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15.061606
@@ -13211,6 +14104,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -13286,6 +14183,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-pointy (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011032761792, guid: 2658a717abb234446829f8a02100617e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012442649666, guid: 2658a717abb234446829f8a02100617e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8.101338
@@ -13347,6 +14248,10 @@ PrefabInstance:
     - target: {fileID: 1000010604084324, guid: 6387db88c4179b14eba08bb62d247de7, type: 3}
       propertyPath: m_Name
       value: stone-small_orange (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010604084324, guid: 6387db88c4179b14eba08bb62d247de7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000012502562368, guid: 6387db88c4179b14eba08bb62d247de7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13410,6 +14315,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-small (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013466349968, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013162195916, guid: f91bd5ad6daecb6499fa5fcadcc2888c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10.474396
@@ -13471,6 +14380,10 @@ PrefabInstance:
     - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_Name
       value: rock-pillar (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
@@ -13546,6 +14459,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock-pillar (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000010050705002, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010418255126, guid: abe740c479c745546851d15a0ffe6cef, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.0182
@@ -13619,6 +14536,10 @@ PrefabInstance:
     - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_Name
       value: shrub (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012427588962, guid: 71c239345c49345569b57ffabafca58e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4000010141745432, guid: 71c239345c49345569b57ffabafca58e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13722,6 +14643,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blood Pool
       objectReference: {fileID: 0}
+    - target: {fileID: 3642430302667602756, guid: 810bf28e1a28c1547b34c4313d4f652d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13739,3 +14664,5 @@ SceneRoots:
   - {fileID: 1994273328}
   - {fileID: 1679822560}
   - {fileID: 1568807764}
+  - {fileID: 763129880}
+  - {fileID: 1442324263}
