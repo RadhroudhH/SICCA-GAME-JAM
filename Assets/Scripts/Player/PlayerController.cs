@@ -40,6 +40,7 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("UI")]
     public TMP_Text speedText;
+    public GameObject EndScreen;
 
     [Header("Footsteps")]
     [SerializeField] private AudioSource footstepSource;
@@ -248,7 +249,14 @@ public class PlayerMovement : MonoBehaviour
 
         return clips[Random.Range(0, clips.Count)];
     }
-
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.collider.gameObject.CompareTag("WinGate"))
+        {
+            EndScreen.SetActive(true);
+            Time.timeScale = 0f;
+        }
+    }
 
 
 }
